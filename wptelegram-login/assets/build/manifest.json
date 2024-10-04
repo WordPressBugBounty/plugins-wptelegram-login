@@ -1,0 +1,45 @@
+{
+  "_usePluginData-Cec06u-v.js": {
+    "file": "dist/usePluginData-Cec06u-v.js",
+    "name": "usePluginData"
+  },
+  "js/blocks/index.ts": {
+    "file": "dist/blocks-Bd5Sy_FD.js",
+    "name": "blocks",
+    "src": "js/blocks/index.ts",
+    "isEntry": true,
+    "imports": [
+      "_usePluginData-Cec06u-v.js"
+    ],
+    "css": [
+      "dist/blocks-Dyy12yjz.css"
+    ]
+  },
+  "js/settings/index.ts": {
+    "file": "dist/settings-Bn7MWEVx.js",
+    "name": "settings",
+    "src": "js/settings/index.ts",
+    "isEntry": true,
+    "imports": [
+      "_usePluginData-Cec06u-v.js"
+    ],
+    "css": [
+      "dist/settings-BPUEZbcO.css"
+    ]
+  },
+  "js/web-app-login/index.ts": {
+    "file": "dist/web-app-login-CXB-N4Hv.js",
+    "name": "web-app-login",
+    "src": "js/web-app-login/index.ts",
+    "isEntry": true
+  },
+  "js/wp-login/index.ts": {
+    "file": "dist/wp-login-CLNOwpzk.js",
+    "name": "wp-login",
+    "src": "js/wp-login/index.ts",
+    "isEntry": true,
+    "css": [
+      "dist/wp-login-DytovrYG.css"
+    ]
+  }
+}
