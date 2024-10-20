@@ -5,7 +5,7 @@ Tags: telegram, login, register, social, signup
 Requires at least: 6.4
 Requires PHP: 7.4
 Tested up to: 6.6.2
-Stable tag: 1.11.2
+Stable tag: 1.11.3
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -154,9 +154,7 @@ Automatic updates should work smoothly, but we still recommend you back up your 
 
 == Changelog ==
 
-= 1.11 =
-- Improved the UI for small/mobile screens
-- Refreshed the UI migrating away from Chakra UI
-- Fixed and improved the a11y issues in settings page UI
+= 1.11.3 =
+- Fixed the messed up query params passed by Telegram Mini Apps
 
 [See full changelog](https://github.com/wpsocio/wptelegram-login/blob/main/CHANGELOG.md)
